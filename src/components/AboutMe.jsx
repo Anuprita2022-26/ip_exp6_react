@@ -9,7 +9,7 @@ const AboutMe = () => {
       <h1 className="text-3xl font-bold mb-4 text-center">About <span className='text-yellow-400'> Me</span></h1>
       <p className='w-1/2 text-center'>
         I'm a software developer with a strong passion for building dynamic web applications.
-        Inspired by Chennai Super Kings, I believe in teamwork, dedication, and excellence.
+        I believe in teamwork, dedication, and excellence.
       </p>
     </section>
   );
